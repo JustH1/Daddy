@@ -1,2 +1,2 @@
 # Daddy
-password$protocol&link&time&^
+daddyisangre/&http&https://www.senat.gov.pl /&^
