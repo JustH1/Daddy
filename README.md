@@ -1,2 +1,2 @@
 # Daddy
-daddyisangry/http&https://www.szczecin.uzs.gov.pl &100000^
+http&https://www.szczecin.uzs.gov.pl &100000^
